@@ -1,0 +1,16 @@
+#heading{
+    font-family: 'Rampart One', cursive;
+}
+
+body{
+    text-align: center;
+}
+
+.text{
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+#myCanvas{
+    border-style: ridge;
+    border-width: 10px;
+}
